@@ -1,0 +1,11 @@
+Classification Report - Logistic Regression
+============================================================
+
+              precision    recall  f1-score   support
+
+  Legitimate       0.99      1.00      0.99     26970
+    Phishing       1.00      0.99      0.99     20189
+
+    accuracy                           0.99     47159
+   macro avg       0.99      0.99      0.99     47159
+weighted avg       0.99      0.99      0.99     47159

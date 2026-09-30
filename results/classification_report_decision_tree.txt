@@ -1,0 +1,11 @@
+Classification Report - Decision Tree
+============================================================
+
+              precision    recall  f1-score   support
+
+  Legitimate       0.99      1.00      1.00     26970
+    Phishing       1.00      0.99      0.99     20189
+
+    accuracy                           1.00     47159
+   macro avg       1.00      1.00      1.00     47159
+weighted avg       1.00      1.00      1.00     47159

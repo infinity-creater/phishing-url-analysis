@@ -1,0 +1,14 @@
+Property,Value
+dataset,UCI PhiUSIIL Phishing URL Dataset
+dataset_id,967
+original_rows,235795
+original_features,54
+extracted_features,20
+target,is_phishing
+target_definition,"0 = Legitimate, 1 = Phishing"
+duplicate_feature_rows,207667
+conflicting_feature_groups,246
+train_rows,188636
+test_rows,47159
+group_overlap,0
+selected_model,KNN
